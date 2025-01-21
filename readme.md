@@ -2,7 +2,7 @@
 
 ## Project Information
 - **Subject:** Fundamental of Programming
-- **Year & Semester:** Y1 S1
+- **Year & Semester:** Year1 Semester1
 - **Final Grade:** A
 
 ## Overview

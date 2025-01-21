@@ -1,0 +1,10 @@
+id,fname,lname,roomtype,room,bookingdate,sorted_date
+6687001,Keatikun,Komkeng,LAB,LAB103,12-10-2023,2023-10-12
+6687002,Techit,Thititammajariya,LECTURE,IT301,18-12-2023,2023-12-18
+6687003,Taechinee,Ratanawimon,LAB,LAB104,21-02-2023,2023-02-21
+6687004,Krittanon,Chongklahan,LECTURE,IT302,30-01-2023,2023-01-30
+6687004,Krittanon,Chongklahan,LAB,LAB103,21-07-2023,2023-07-21
+6687009,Jirayu,Saisawat,LECTURE,IT304,06-07-2023,2023-07-06
+6687016,Thitiporn,Panthanan,LAB,LAB106,01-01-2023,2023-01-01
+6687005,Kongpop,Keattireangwattana,LAB,LAB103,05-05-2023,2023-05-05
+6687004,Krittanon,Chongklahan,LECTURE,IT303,06-07-2023,2023-07-06
